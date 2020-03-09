@@ -19,7 +19,12 @@ def fourth_challenge
 
 end
 
+<<<<<<< HEAD
 
 
 
+=======
+epic_tragedy[:hero][status]= "dead"  
+epic_tragedy[:heroine][status]="dead"
+>>>>>>> 45d14f6a9cc2cdc77abcc49474eeff09d5ab6929
 
